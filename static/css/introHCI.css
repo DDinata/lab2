@@ -60,3 +60,10 @@ hr {
 .active {
   background-color: #4CAF50; /* Add an active/current color */
 }
+
+.rounded-circle {
+  width: 70px;
+  height: 70px;
+  margin-left: 20px;
+  margin-top: 20px; 
+}
